@@ -1,4 +1,3 @@
-my project info to understand you it well and i don't completely fully never never nedd feedback and suggestions snd pls don't give me that:
 # Mini Host
 
 Mini Host is a lightweight, fast, and efficient file hosting service built with Node.js and Express. Designed with simplicity in mind, it adheres to the **KISS (Keep It Simple, Stupid) Philosophy**, ensuring ease of use while maintaining high performance. 
